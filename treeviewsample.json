@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Crude oil",
+    "parent": "null",
+	"Total Production":"10000",
+	"grade":"Grade 2",
+    "children": [
+      {
+        "name": "Well 1",
+        "parent": "Crude oil",
+		"Total Production":"5000",
+        "children": [
+          {
+            "name": "Storage",
+			"Total Production":"1000",
+            "parent": "Well 1"
+			
+          },
+          {
+            "name": "Refinery : Well 1",
+			"Total Production":"4000",
+            "parent": "Well 1"
+
+          },
+          {
+            "name": "Refinery- well 10",
+			"Total Production":"1000",
+            "parent": "Well 1"
+          }
+        ]
+      },
+      {
+        "name": "Well 2",
+        "parent": "Crude oil",
+		"Total Production":"5000"
+      },
+      {
+        "name": "Well 3",
+        "parent": "Crude oil",
+		"Total Production":"5000",
+      }
+    ]
+  }
+]
