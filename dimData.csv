@@ -1,0 +1,8 @@
+iata,name,city,state,country,latitude,longitude,type,capacity,image
+ABC,Pascagoula Refinery,Galveston,TX,USA,29.26532333,-94.86040667,#3CB371,100000,oilwell.png
+ABD,Richmond Exploration Site,Avalon,CA,USA,33.40494444,-118.4158611,#A52A2A,10000,oilwell.png
+ABE,Richmond Refinery,Petaluma,CA,USA,38.2578325,-122.6055406,#3CB371,50000,oilwell.png
+ABF,Perryville,Gulf Shores,AL,USA,30.28951667,-87.67371472,#4682B4,80000,oilwell.png
+ABG,Rawlins Muni,Rawlins,WY,USA,41.8055975,-107.19994,#4682B4,20000,oilwell.png
+ABH,Waukesha County,Waukesha,WI,USA,43.04102778,-88.23705556,#3CB371,450000,oilwell.png
+ABJ,Gulf Of Mexico Exploration,Perryville,AK,USA,28.28951667,-87.67371472,#A52A2A,800000,oilwell.png

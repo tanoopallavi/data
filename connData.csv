@@ -1,0 +1,8 @@
+origin,destination,count
+ABC,ABD,853
+ABC,ABD,1
+ABC,ABE,805
+ABC,ABF,465
+ABE,ABD,247
+ABD,ABE,997
+ABF,ABG,3
