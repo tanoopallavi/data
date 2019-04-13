@@ -5,42 +5,17 @@
       "name": "truck",
       "children": [
         {
-          "name": "1-1-1",
+          "name": "Marathon Detroit Refinery",
           "children": []
         },
         {
-          "name": "1-1-2",
+          "name": "Rogerslacy Refinery",
           "children": []
         },
         {
-          "name": "1-1-3",
+          "name": "Greenville Refinery",
           "children": []
-        },
-        {
-          "name": "1-1-4",
-          "children": []
-        },
-        {
-          "name": "1-1-5",
-          "children": []
-        },
-        {
-          "name": "1-1-6",
-          "children": []
-        },
-        {
-          "name": "1-1-7",
-          "children": []
-        },
-        {
-          "name": "1-1-8",
-          "children": []
-        },
-        {
-          "name": "1-1-9",
-          "children": []
-        }
-      ]
+        }     ]
     },
     {
       "name": "rail- car",
