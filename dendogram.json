@@ -6,7 +6,16 @@
       "children": [
         {
           "name": "Marathon Detroit Refinery",
-          "children": []
+          "children": [
+							  {
+							  "name": "Petrol",
+							  "children": []
+							},
+							{
+							  "name": "Wax",
+							  "children": []
+							}
+						]
         },
         {
           "name": "Rogerslacy Refinery",
