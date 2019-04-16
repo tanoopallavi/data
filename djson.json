@@ -1,33 +1,23 @@
-{
-	"Id": "F1",
-	"children": [{
+[{
+		"Id": "F1",
 		"Pr1": [{
-				"name": "",
-				"color": "red"
-			}, {
+			"name": "",
+			"color": "red"
+		}],
 		"Pr2": [{
-					"name": "",
-					"color": "Cyan"
-				}]
-
-			}
-
-		]
-	}]
-},{
-	"Id": "F2",
-	"children": [{
+			"name": "",
+			"color": "Cyan"
+		}]
+	},
+	{
+		"Id": "F2",
 		"Pr1": [{
-				"name": "",
-				"color": "red"
-			}, {
+			"name": "",
+			"color": "red"
+		}],
 		"Pr2": [{
-					"name": "",
-					"color": "Cyan"
-				}]
-
-			}
-
-		]
-	}]
-}
+			"name": "",
+			"color": "Cyan"
+		}]
+	}
+]
