@@ -1,0 +1,16 @@
+Id,Pr1,Pr2,Pr3,Pr4,Pr5
+F1,red,Cyan,Cyan,,red
+F2,Cyan,Green,,,red
+F3,,,Yellow,,red
+F4,Green,Green,Green,Green,Green
+F5,Green,Green,Green,Green,Green
+F6,,,,,
+F7,red,red,red,Yellow,Yellow
+F8,red,red,red,Green,Yellow
+F9,red,red,red,Green,Yellow
+F10,red,red,red,Green,Yellow
+F11,red,red,red,Green,Yellow
+F12,red,red,red,Green,Yellow
+F13,Blue,Blue,Blue,Blue,Yellow
+F14,cyan,Blue,Blue,Blue,Yellow
+F15,cyan,Blue,Blue,Blue,Yellow
