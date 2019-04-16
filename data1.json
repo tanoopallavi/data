@@ -1,0 +1,35 @@
+[{
+	"Id": "F1",
+	"children": [{
+		"Pr1": [{
+				"name": "",
+				"color": "red"
+			}, {
+		"Pr2": [{
+					"name": "",
+					"color": "Cyan"
+				}]
+
+			}
+
+		]
+	}]
+},{
+	"Id": "F2",
+	"children": [{
+		"Pr1": [{
+				"name": "",
+				"color": "red"
+			}, {
+		"Pr2": [{
+					"name": "",
+					"color": "Cyan"
+				}]
+
+			}
+
+		]
+	}]
+}
+
+]
