@@ -1,22 +1,22 @@
 [{
 		"Id": "F1",
 		"Pr1": [{
-			"name": "",
+			"name": "ab",
 			"color": "red"
 		}],
 		"Pr2": [{
-			"name": "",
+			"name": "ac",
 			"color": "Cyan"
 		}]
 	},
 	{
 		"Id": "F2",
 		"Pr1": [{
-			"name": "",
+			"name": "ab",
 			"color": "red"
 		}],
 		"Pr2": [{
-			"name": "",
+			"name": "ac",
 			"color": "Cyan"
 		}]
 	}
